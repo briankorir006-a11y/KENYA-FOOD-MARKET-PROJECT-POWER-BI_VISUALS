@@ -110,7 +110,7 @@ IF (
 
 **Dashboard Preview-Price Analysis**
 
-![alt text](https://github.com/briankorir006-a11y/KENYA-FOOD-MARKET-PRICES/blob/main/Dashboard\_Preview\_Two.png?raw=true)
+![alt text](https://github.com/briankorir006-a11y/KENYA-FOOD-MARKET-PROJECT/blob/main/ASSETS/Dashboard_Preview_Two.png?raw=true)
 
 
 
